@@ -1,0 +1,123 @@
+body{
+
+  font-family: 'Poppins', sans-serif;
+
+}
+.main-body{
+  padding-bottom: 100px;
+}
+
+.title {
+  text-align: center;
+  margin: 10px auto;
+}
+
+.name1{
+  font-weight: lighter;
+  font-size: 2rem;
+  margin-bottom: 1px;
+
+}
+
+.name2{
+  font-weight: 600;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.paragraph1{
+  width: 35%;
+  margin: 10px auto 50px auto;
+}
+
+.team-builder-card {
+  border-top: 3px solid hsl(0, 78%, 62%);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px; 
+  width: 350px;
+  padding-bottom: 45px;
+  margin-left: 600px;
+  position: absolute;
+}
+
+.team-builder-image{
+  padding-left: 250px;
+}
+
+.card1-text{
+  text-align: left;
+  padding: 2px 16px
+}
+
+.supervisor-card {
+  border-top: 3px solid hsl(180, 62%, 55%);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  width: 350px;
+  margin-left: 225px;
+  margin-top: 125px;
+  position: absolute;
+}
+
+.supervisor-image{
+  padding-left: 250px;
+  padding-bottom: 45px;
+}
+
+.card2-text{
+  text-align: left;
+  padding: 2px 16px
+}
+
+.karma-card {
+  border-top: 3px solid hsl(34, 97%, 64%);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  width: 350px;
+  margin-left: 600px;
+  position: absolute;
+  margin-top: 260px;
+}
+
+.karma-image{
+  padding-left: 250px;
+  padding-bottom: 45px;
+}
+
+.card3-text{
+  text-align: left;
+  padding: 2px 16px
+}
+
+.calculator-card {
+  border-top: 3px solid hsl(212, 86%, 64%);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  width: 350px;
+  margin-left: 975px;
+  position: absolute;
+  margin-top: 100px;
+  padding-bottom: 45px;
+
+
+}
+
+.calculator-image{
+  padding-left: 250px;
+
+}
+
+.card4-text{
+  text-align: left;
+  padding: 2px 16px
+}
+
+.attribution{
+  position: absolute;
+  margin-top: 500px;
+  text-align: center;
+}
